@@ -65,8 +65,9 @@
 }
 
 .btnColor {
-    background-color: #141622;
-    color: white;
+    border: 2px solid #141622;
+    background-color: white;
+    color:#141622;
 }
 
 .spacing {
