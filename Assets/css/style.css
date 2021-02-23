@@ -46,3 +46,10 @@
     width: 40%;
     padding-top: 5%;
 }
+
+
+/* BUTTON */
+.btnCustom {
+    background-color: #073B15;
+    color: white;
+}
