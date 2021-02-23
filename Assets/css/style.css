@@ -1,7 +1,5 @@
 
-* {
-    font-family: "Proxima Nova";
-}
+
 .moveNavbar {
     margin-top: 2%;
 }
@@ -9,7 +7,7 @@
 .navbar-default {
     background-color: #141622;
     color: white;
-    font-family: "Proxima Nova";
+    font-family: "Georgia";
     font-weight: bolder;
    }
 
@@ -20,8 +18,8 @@
     margin-right: 1%;
    }
 
-   .TopRow p {
-       font-family: "Proxima Nova";
+   .TopRow p, h3, h4 {
+       font-family: "Verdana";
    }
 
    .BioSection {
@@ -43,8 +41,8 @@
 
 .imagePlacement {
     display: block;
-    padding-top: 4%;
     margin-left: auto;
     margin-right: auto;
-    width: 50%; 
+    width: 40%;
+    padding-top: 5%;
 }
