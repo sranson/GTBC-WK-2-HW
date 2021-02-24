@@ -1,4 +1,5 @@
 
+/* navbar */
 
 .moveNavbar {
     margin-top: 2%;
@@ -11,6 +12,8 @@
     font-weight: bolder;
    }
 
+
+   /* ABOUT ME SECTION */
 
    .TopRow {
     margin-top: 2%;
@@ -27,7 +30,6 @@
    }
 
    .bottomRow {
-        /* background-color: orange; */
         margin-top: 2%;
    }
 
@@ -38,6 +40,8 @@
     border-radius: 50%;
     display: inline-block;   
    }
+
+   /* MY WORK SECTION */
 
 .imagePlacement {
     display: block;
@@ -50,15 +54,14 @@
 .zoom {
     transition: transform .2s; /* Animation */
     margin: 0 auto;
-    /* margin-bottom: 5%; */
   }
 
 .zoom:hover {
-    transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+    transform: scale(1.1);
   }
 
   
-/* BUTTON */
+/* MY WORK BUTTONS */
 .btnCustom {
     background-color: #073B15;
     color: white;
@@ -73,6 +76,9 @@
     background-color: #3A383B;
     color: white;
 }
+
+
+/* CONTACT SECTION */
 
 .btnColor {
     border: 2px solid #141622;
