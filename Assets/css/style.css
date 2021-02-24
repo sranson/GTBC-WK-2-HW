@@ -73,3 +73,7 @@
 .spacing {
     margin-bottom: 5%;
 }
+
+.linkStyle {
+    text-decoration: none;
+}
