@@ -14,4 +14,6 @@ For this assignment I was tasked with creating a personal portfolio that include
 ![Homework Demo](Assets/images/Portfolio.png)
 
 
+#### Note: The link to the "My Recipes" project may take longer than usual to load.
+
 #### [Portfolio](https://sranson.github.io/GTBC-WK-2-HW/)
