@@ -1,13 +1,14 @@
 
 /* navbar */
 
-
 .navbar-default {
     background-color: #141622;
     color: white;
     font-family: "Georgia";
     font-weight: bolder;
    }
+
+
 
 /* IMAGE SECTION */
 
@@ -28,6 +29,8 @@
     }
 
 
+
+
 /* ABOUT ME SECTION */
 
    .TopRow p, h4, h6 {
@@ -44,7 +47,9 @@
    }
   
 
-   /* MY WORK SECTION */
+
+
+/* MY WORK SECTION */
 
 #MyWork h1 {
     margin-bottom: 5%;
@@ -69,7 +74,8 @@
   }
 
   
-/* MY WORK BUTTONS */
+
+/* MY WORK SECTION BUTTONS */
 .btnCustom {
     background-color: #073B15;
     color: white;
@@ -84,6 +90,8 @@
     background-color: #3A383B;
     color: white;
 }
+
+
 
 
 /* CONTACT SECTION */
