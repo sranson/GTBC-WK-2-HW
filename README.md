@@ -10,7 +10,7 @@ For this assignment I was tasked with creating a personal portfolio that include
 
 ## Here is an example of the completed homework assignment
 
-(Assets/images/Portfolio.pdf)
+![Homework Demo](Assets/images/Portfolio.pdf)
 
 
 #### [Portfolio](https://sranson.github.io/GTBC-WK-2-HW/)
