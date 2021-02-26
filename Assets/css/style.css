@@ -46,6 +46,18 @@
 
    /* MY WORK SECTION */
 
+#MyWork h1 {
+    margin-bottom: 5%;
+   }
+
+
+#MyWork section {
+    padding-bottom: 5%;
+}
+
+.cardSize {
+    width: 16rem;
+}
 
 .zoom {
     transition: transform .2s; /* Animation */
