@@ -51,6 +51,11 @@
 
 /* MY WORK SECTION */
 
+.customColor {
+    background-color: #F8F9FA;
+    border-radius: 10px;
+}
+
 #MyWork h1 {
     margin-bottom: 5%;
     margin-top: 5%;
@@ -78,6 +83,10 @@
   
 
 /* CONTACT SECTION */
+
+.customSpacing {
+    margin-top: 5%;
+}
 
 .btnColor {
     border: 2px solid #141622;
